@@ -1,0 +1,18 @@
+body {
+    color: white;
+    background-color:#c21b1e;
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+
+.list {
+    list-style: none;
+}
+
+.list li {
+    padding: 10px 0px;
+}
